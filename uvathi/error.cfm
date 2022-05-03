@@ -31,7 +31,7 @@
 <body>
     <div class="head" >
         <h1>
-                EMPLOYEE APPLICATION- 03-05-2022
+                EMPLOYEE APPLICATION
         </h1>
     </div>
     <div class="center"  >
